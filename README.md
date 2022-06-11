@@ -1,8 +1,9 @@
 
 # Order-Service
 
-It displays the orders in the list using RestApi GetMethod.
+It displays the list of orders using RestApi GetMethod.
 <hr>
+<h3>Screenshot of orders list</h3>
 <img src="images/listoforders.PNG">
 
 
